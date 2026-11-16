@@ -1,18 +1,18 @@
 # Artem Meleshchenko
 
-International projects and business development in Latin America, based in Santiago, Chile.
+International projects, business development and AI automation in Latin America, based in Santiago, Chile.
 15+ years across Russia and Chile in project coordination, operations, procurement and technology implementation.
 
 ## What I work on
-- Turning business processes into working digital tools: web platforms, client portals, calculators, data pipelines
+- AI automation and integrations: turning manual business processes (inbound requests, CRM entry, reporting) into working workflows with guardrails
 - Technology implementation: fleet telematics and monitoring systems (Geotab, Wialon) for transport and mining
-- Data and market analysis for real estate and B2B decisions in Chile
-- AI-assisted prototyping: I design the product, scope and data model, and build with AI coding tools
+- Data analysis and official-data tools for business decisions in Chile
+- Product delivery with AI coding tools: I define the product, data rules and acceptance criteria, then build and verify with tests
 
 ## Selected work
-- **[chile-housing-math](https://github.com/studiofrontiera/chile-housing-math)**: open TypeScript library for Chilean mortgage (UF), rent adjustment by IPC and related property calculations, with tests
-- Bilingual real estate web platform (ES/EN) with search, calculators and market data from Banco Central de Chile (private)
-- Client portal with role-based access and row-level security on Supabase (private)
+- **[frontiera-automation](https://github.com/studiofrontiera/frontiera-automation)**: bilingual (ES/EN) website for an AI automation studio with a live demo that turns a customer e-mail into a CRM record, tasks and a draft reply, with a rule-based fallback and tests
+- **[chile-housing-math](https://github.com/studiofrontiera/chile-housing-math)**: open TypeScript library for Chilean UF mortgages and IPC rent adjustment that matches the official INE calculator, 65 tests
+- Client portal with sign-in by one-time code and row-level security on Supabase (private)
 
 ## Languages
 Russian (native), Spanish (native), English (professional), Japanese (elementary)

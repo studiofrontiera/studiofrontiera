@@ -10,7 +10,7 @@ International projects, business development and AI automation in Latin America,
 - Product delivery with AI coding tools: I define the product, data rules and acceptance criteria, then build and verify with tests
 
 ## Selected work
-- **[frontiera-automation](https://github.com/studiofrontiera/frontiera-automation)**: bilingual (ES/EN) website for an AI automation studio with a live demo that turns a customer e-mail into a CRM record, tasks and a draft reply, with a rule-based fallback and tests
+- **[frontiera.cl](https://www.frontiera.cl)** ([source](https://github.com/studiofrontiera/frontiera-automation)): bilingual (ES/EN) website for an AI automation studio with an interactive workflow playground (inbound lead, supplier invoice, support ticket) where visitors inspect every step and its JSON, plus a live AI demo with a rule-based fallback and tests
 - **[chile-housing-math](https://github.com/studiofrontiera/chile-housing-math)**: open TypeScript library for Chilean UF mortgages and IPC rent adjustment that matches the official INE calculator, 65 tests
 - Client portal with sign-in by one-time code and row-level security on Supabase (private)
 
